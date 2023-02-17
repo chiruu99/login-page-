@@ -1,0 +1,35 @@
+.header{
+    text-decoration: none;
+}
+.logo{
+    border-radius: 15px solid gray;
+}
+.logo img{
+    width: 20px;
+    align-items: center;
+}
+.navbar{
+    display: flex; 
+    border: 2%; 
+    background-color:lightgray;
+}
+.navbar li{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+button{
+background-color:lightgray;
+padding:auto;
+text-align:auto;
+}
+.form{
+padding-left:200;
+}
+.mid{
+    padding:7px 7px;    
+}
+.mid li:hover{
+    text-decoration: underline;
+    scrollbar-arrow-color: aliceblue;
+}
